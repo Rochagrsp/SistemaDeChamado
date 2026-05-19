@@ -24,7 +24,7 @@ pip install streamlit
 Execute o projeto:
 
 ```bash
-streamlit run app.py
+pystreamlit run app.py
 ```
 
 ## 📌 Status dos Chamados
